@@ -1,0 +1,9 @@
+{
+  "CLUSTER_POLL_INTERVAL": 3600,
+  "SLACK_CHANNEL": "slack-testing",
+  "CLOUD_TYPE": ["AWS_ROSA", "AWS_CLIENT_OCP", "AWS_USER_OCP"],
+  "CLOUD_REGION": ["us-east-1", "us-west-1","us-east-2", "us-west-2"],
+  "CLUSTER_EXPIRATION_DURATION": 2,
+  "JENKINS_AWS_CREATE": "https://hyc-icps-team-jenkins.swg-devops.com/job/DevOps/job/DevOps-Lab/job/pawan/job/aws-rosa-ocp-cluster-creation/buildWithParameters",
+  "JENKINS_AWS_DELETE": "https://hyc-icps-team-jenkins.swg-devops.com/job/DevOps/job/DevOps-Lab/job/pawan/job/aws-rosa-cluster-deletion/buildWithParameters"
+}

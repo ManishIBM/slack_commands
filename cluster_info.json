@@ -1,0 +1,15 @@
+{
+    "U05DJ1M7PPV": [
+        {
+            "name": "cluster_name3",
+            "version": "4.9",
+            "type": "AWS_ROSA",
+            "status": "running",
+            "creation_time": "2023-06-26 14:46:08",
+            "expiration_time": "2023-06-26 14:50:08",
+            "console_url": "https://console-openshift-console.apps.guard-rosa-2.hj6b.p1.openshiftapps.com",
+            "username": "cluster-admin",
+            "password": "GGS6n-WdShz-jcX3C-qg7DM"
+        }
+    ]
+}
